@@ -11,5 +11,4 @@ I configured the scripts to use variables as much as possible to make them unive
 - I enjoy teaching others, so this repository is to help streamline specific tasks for other like minded SysAdmins
 - If you want to collaborate or would like my assistance on any projects then feel fre to contact me through the email below
 
-# Get in touch 📱
-🌎 https://www.stevenholtman.com | 📫 stevenholtman@protonmail.com
+Get in touch 📱: 🌎 https://www.stevenholtman.com | 📫 stevenholtman@protonmail.com
